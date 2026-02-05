@@ -52,15 +52,7 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VolkHackVH&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
 
-#
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VolkHackVH&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4">
-</p>
 
 #
 
